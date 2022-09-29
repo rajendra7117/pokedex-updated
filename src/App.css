@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  overflow: hidden;
+ width: 100vw;
+}
+
+.grass{
+  background-color: #019267;
+}
+.ground{
+background-color: #7C9473;
+}
+.ghost{
+background-color: #222831;
+}
+.fire{
+background-color: #F07B3F;
+}
+.electric{
+  background-color: #FFCD3C;
+}
+.bug{
+  background-color: #9DAD7F;
+}
+.water{
+background-color: #1C658C;
+}
+.normal{
+  background-color: #BAC7A7;
+}
